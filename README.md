@@ -37,5 +37,3 @@
 <a href="https://www.instagram.com/_pefons/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="linkedin"/>
 </a>
-
-<img width="500em" src="https://github-readme-linkedin-gazf.vercel.app/api?id=pedro-fonseca-77802a198&layout=wide&show_reply=off&show_retweet=off">
