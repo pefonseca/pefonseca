@@ -9,6 +9,8 @@
 
 - 💬 Let's talk about 
 
+- 📝 Learning Kotlin
+
 ## 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=189f20)&nbsp;
