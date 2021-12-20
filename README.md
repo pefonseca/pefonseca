@@ -9,7 +9,7 @@
 
 - 💬 Let's talk about 
 
-- 📝 Learning Kotlin
+- 📝 Learning Kotlin and Golang
 
 ## 🛠 &nbsp;Tech Stack
 
