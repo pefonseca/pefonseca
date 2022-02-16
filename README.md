@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pefonseca&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Lover of C#, Python and JavaScript Development
+- 🔥 Lover of C#, JAVA, Python and JavaScript Development
 
 - 👨‍💻 Intern at [GFT Brasil](https://www.gft.com/br/pt)
 
