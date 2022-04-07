@@ -14,6 +14,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=189f20)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=CA3433)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=9a5bf2)&nbsp;
