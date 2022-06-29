@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Fonseca Nunes</h1>
+<h1 align="left"> Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Pedro Fonseca Nunes</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pefonseca&color=blue" alt="Profile views" /> </p>
 
