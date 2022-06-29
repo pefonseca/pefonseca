@@ -5,7 +5,7 @@
 
 - 🔥 Lover of C# & JAVA 
 
-- 👨‍💻 Intern at [GFT Brasil](https://www.gft.com/br/pt)
+- 👨‍💻 System Analyst at [GFT Brasil](https://www.gft.com/br/pt)
 
 - 💬 Let's talk about 
 
