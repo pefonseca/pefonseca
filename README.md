@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pefonseca&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Lover of JAVA and Kotlin
+- 🔥 Lover of JAVA
 
 - 👨‍💻 System Analyst JAVA at [GFT Brasil](https://www.gft.com/br/pt)
 
