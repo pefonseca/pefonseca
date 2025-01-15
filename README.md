@@ -5,7 +5,7 @@
 
 - 🔥 Lover of JAVA
 
-- 👨‍💻 System Analyst JAVA at [GFT Brasil](https://www.gft.com/br/pt)
+- 👨‍💻 System Analyst JAVA II at [GFT Brasil](https://www.gft.com/br/pt)
 
 - 💬 Let's talk about 
 
